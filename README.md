@@ -1,8 +1,8 @@
 # planetside2-event-client
 
-A client for the [Planetside 2 event streaming api](http://census.daybreakgames.com/#what-is-websocket).
+A client for the [Planetside 2 event streaming API](http://census.daybreakgames.com/#what-is-websocket).
 
-This client is incomplete, however it has a lot of basic functions that may be useful.
+This client is incomplete, however it has some basic functions that may be useful.
 
 ## Usage
 
